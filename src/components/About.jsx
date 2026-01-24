@@ -24,7 +24,7 @@ export default function About() {
                 <div className="flex flex-col md:flex-row md:justify-between md:items-start">
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Full Stack Developer (Academic)</h4>
-                    <p className="text-blue-600 dark:text-blue-400">2017 - Present</p>
+                    <p className="text-blue-600 dark:text-blue-400">2023 - Present</p>
                   </div>
                 </div>
                 <ul className="mt-4 space-y-2">
@@ -58,7 +58,7 @@ export default function About() {
                   <h4 className="text-xl font-semibold text-gray-900 dark:text-white">BSc in Software Engineering</h4>
                   <p className="text-blue-600 dark:text-blue-400">Haramaya University</p>
                 </div>
-                <span className="text-sm text-gray-600 dark:text-gray-400 mt-1">2015 - 2019</span>
+                <span className="text-sm text-gray-600 dark:text-gray-400 mt-1">2022 - 2027</span>
               </div>
               <p className="mt-3 text-gray-700 dark:text-gray-300">
                 Specialized in full-stack development, database systems, and software engineering principles.
