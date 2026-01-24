@@ -19,7 +19,7 @@ export default function Hero() {
             Get In Touch
           </a>
           <a
-            href="https://github.com/Burkakoo"
+            href="#Projects"
             className="border-2 border-blue-600 text-blue-600 dark:text-blue-400 dark:border-blue-400 font-semibold py-3 px-8 rounded-lg transition duration-300 transform hover:scale-105"
           >
             View My Work
