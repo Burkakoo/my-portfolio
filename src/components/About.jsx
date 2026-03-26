@@ -24,13 +24,13 @@ export default function About() {
                 <div className="flex flex-col md:flex-row md:justify-between md:items-start">
                   <div>
                     <h4 className="text-xl font-semibold text-gray-900 dark:text-white">Full Stack Developer (Academic)</h4>
-                    <p className="text-blue-600 dark:text-blue-400">2023 - Present</p>
+                    <p className="text-blue-600 dark:text-blue-400">2022 - Present</p>
                   </div>
                 </div>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-start">
                     <span className="text-blue-500 mt-1 mr-2">•</span>
-                    <span className="dark:text-gray-300">Built 6+ production-ready full-stack applications using React, Node.js, MySQL & MongoDB</span>
+                    <span className="dark:text-gray-300">Built 11+ production-ready full-stack applications using React, ReactNative, Node.js, ASP.NET, MySQL & MongoDB</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-blue-500 mt-1 mr-2">•</span>

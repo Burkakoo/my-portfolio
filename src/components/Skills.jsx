@@ -17,7 +17,7 @@ export default function Skills() {
     },
     {
       title: 'Backend',
-      skills: ['Node.js', 'Express.js', 'REST APIs', 'Authentication (JWT)', 'API Integration']
+      skills: ['Node.js', 'Express.js', 'REST APIs', 'Authentication (JWT)', 'API Integration','ASP.NET Core']
     },
     {
       title: 'Database',

@@ -174,7 +174,7 @@ export default function Contact() {
             <div className="flex space-x-4">
               {[
                 { icon: 'github', url: 'https://github.com/Burkakoo' },
-                { icon: 'linkedin-in', url: 'https://linkedin.com/in/Burkakoo' },
+                { icon: 'linkedin-in', url: 'https://www.linkedin.com/in/burkalink' },
                 { icon: 'twitter', url: 'https://twitter.com/yourusername' },
                 { icon: 'instagram', url: 'https://instagram.com/yourusername' },
               ].map((social, index) => (

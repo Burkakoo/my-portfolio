@@ -6,7 +6,7 @@ export default function Hero() {
           Hi, I'm <span className="text-blue-600 dark:text-blue-400">Burka Muhammed</span>
         </h1>
         <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-8">
-          Full Stack Developer & UI/UX Designer
+          Full Stack Developer & UI/UX Designer by MERN, React Native and ASP.NET Core
         </h2>
         <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-10 max-w-2xl mx-auto">
           I build exceptional digital experiences that are fast, accessible, and visually appealing.
@@ -19,7 +19,7 @@ export default function Hero() {
             Get In Touch
           </a>
           <a
-            href="#Projects"
+            href="https://github.com/Burkakoo/Holastic-Exam-System"
             className="border-2 border-blue-600 text-blue-600 dark:text-blue-400 dark:border-blue-400 font-semibold py-3 px-8 rounded-lg transition duration-300 transform hover:scale-105"
           >
             View My Work
